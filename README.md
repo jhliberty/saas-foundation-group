@@ -1,4 +1,4 @@
-# saas-foundation-group
+# SaaS Foundation Group
 
 [![Gitter chat](https://badges.gitter.im/jhliberty/saas-foundation-group.png)](https://gitter.im/jhliberty/saas-foundation-group)
 
